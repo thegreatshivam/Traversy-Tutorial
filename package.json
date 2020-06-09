@@ -1,0 +1,20 @@
+{
+  "name": "traversytutorial",
+  "version": "1.0.0",
+  "description": "My first express app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "Shivam Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "moment": "^2.26.0"
+  },
+  "engines": {
+    "node": "12.18.0"
+  }
+}
